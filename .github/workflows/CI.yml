@@ -26,4 +26,4 @@ jobs:
       run: go build -v ./task1/go.mod
 
     - name: Test
-      run: go test -v ./task1/go.nod
+      run: go test -v ./task1/go.mod
